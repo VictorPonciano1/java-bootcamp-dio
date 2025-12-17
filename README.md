@@ -3,6 +3,8 @@
 > 🧑🏻 Autor: Victor Ponciano — https://github.com/VictorPonciano1  
 > 🧑🏽 Desenvolvedor Parceiro: Rian Rodrigues — https://github.com/rianexe
 
+Estes projetos foram feitos em parceira com outro desenvolvedor devidamente creditado.
+
 Repositório com **projetos e desafios concluídos durante o Bootcamp Java da DIO**, voltado ao fortalecimento de lógica de programação e aplicação prática de conceitos da linguagem Java.
 
 Este repositório contém implementações de soluções para os **desafios propostos ao longo do Bootcamp Java** na plataforma DIO (Digital Innovation One). Cada pasta representa um desafio com foco em lógica, estruturas de controle, operações matemáticas e manipulação de dados.
