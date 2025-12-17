@@ -1,6 +1,7 @@
 # 🚀 Java Bootcamp DIO — Desafios
 
 > 🧑🏻 Autor: Victor Ponciano — https://github.com/VictorPonciano1  
+> 🧑🏽 Desenvolvedor Parceiro: Rian Rodrigues — https://github.com/rianexe
 
 Repositório com **projetos e desafios concluídos durante o Bootcamp Java da DIO**, voltado ao fortalecimento de lógica de programação e aplicação prática de conceitos da linguagem Java.
 
